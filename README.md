@@ -1,6 +1,8 @@
 # ReactNative_ReduxToolkit
 
-For React Native version 0.70.9
+### React Native version 0.70.9
+
+### Mình sẽ cập nhật thêm chức năng như là Navigation và Animation.
 
 - Hi mọi người, mình xin giới thiệu mình tên là Khánh Đông và là một lập trình viên Mobile sử dụng React Native.
 - Đây là Base setup dành cho project sử dụng Redux Toolkit và đa ngôn ngữ, mình có tham khảo một số nguồn và từ những dự án thực tế mình đã làm.
